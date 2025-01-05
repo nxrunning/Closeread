@@ -1,0 +1,92 @@
+---
+title: "The Silent Decline: Understanding Muscle Loss with Age"
+author: "Nien Xiang Tou"
+date: "2025-01-05"
+categories: ["Ageing", "R Programming"]
+image: "Images/Image-ageing.jpg"
+description: "This post showcases the use of Closeread to create a scrollytelling story of muscle loss with age."
+execute: 
+  warning: false
+  error: false
+format: 
+  closeread-html:
+    cr-style:
+      narrative-background-color-overlay: "#36454F"
+      section-background-color: "FFFFFF"
+    remove-header-space: true
+    toc: false
+---
+
+:::::::::: {.cr-section layout="overlay-center"}
+Ageing is an [**inevitable**]{style="color:#FFD700;"} part of life. @cr-image
+
+The world is ageing [**rapidly**]{style="color:#FFD700;"}. By 2030, 1 in 6 people in the world will be aged 60 years and above.
+
+One of the greatest human accomplishments of the past century was the increase in life expectancy. However, as more people live longer, there is also a worrying gap between [**lifespan**]{style="color:#FFD700;"} and [**healthspan**]{style="color:#FFD700;"}. @cr-image2
+
+It was estimated that humans spent approximately [**9.6 years**]{style="color:#FFD700;"} burdened by disease and poor health at old age. [@cr-image2]{pan-to="0px,-300px"}
+
+As we age, physical function naturally declines leading to [**dependence**]{style="color:#FFD700;"} and [**disability**]{style="color:#FFD700;"}. @cr-image3
+
+One of the hallmarks of ageing is [**muscle loss**]{style="color:#FFD700;"}. No tissue deteriorates with age as profoundly as skeletal muscle. @cr-image4
+
+[**Sarcopenia**]{style="color:#FFD700;"} was a term coined in 1989 by Irwin Rosenberg to recognise age-related loss of muscle mass. [@cr-image4]{scale-by="2"}
+
+Muscle mass begins to decline after [**age 30**]{style="color:#FFD700;"} at an average rate of about [**0.8%**]{style="color:#FFD700;"} per year.
+
+The rate of muscle loss is [**uneven**]{style="color:#FFD700;"}, with lower limb muscles shrinking [**more than twice**]{style="color:#FFD700;"} as fast as upper limb muscles. [@cr-image4]{scale-by="2"} [@cr-image4]{pan-to="-500px,-800px"}
+
+Age-related [**muscle strength**]{style="color:#FFD700;"} declines much faster than the corresponding loss of muscle mass. On average, muscle strength decreases by [**2-4%**]{style="color:#FFD700;"} per year. @cr-image5
+
+Similarly, strength loss with age is greater in the lower limbs than in the upper limbs.
+
+Since lower limb muscles are essential for mobility, their weakening can significantly impact [**independence**]{style="color:#FFD700;"} and [**quality of life**]{style="color:#FFD700;"}.
+
+It has been posited that [**muscle power**]{style="color:#FFD700;"}, the ability to generate force quickly, is most relevant to performing daily activities of living such as standing up from a chair. @cr-image6
+
+Muscle power decreases with age at a much faster rate as compared to muscle strength and muscle mass, which is associated with increased risk of [**functional decline**]{style="color:#FFD700;"}. [@cr-image6]{pan-to="0px,-300px"}
+
+All hope is not lost. You may slow down the ageing trajectory with good [**nutrition**]{style="color:#FFD700;"} and [**physical activity**]{style="color:#FFD700;"}. @cr-image7
+
+[**Exercise is medicine**]{style="color:#FFD700;"}. Progressive resistance training is the magic pill to counteract age-related loss of muscle.
+
+Take action now and extend your healthspan.
+
+::: {#cr-image}
+![](Images/Image-ageing.jpg)
+:::
+
+::: {#cr-image2}
+![](Images/Image-ageing2.jpg)
+:::
+
+::: {#cr-image3}
+![](Images/Image-ageing3.jpg)
+:::
+
+::: {#cr-image4}
+![](Images/Image-ageing4.jpg)
+:::
+
+::: {#cr-image5}
+![](Images/Image-ageing5.jpg)
+:::
+
+::: {#cr-image6}
+![](Images/Image-ageing6.jpg)
+:::
+
+::: {#cr-image7}
+![](Images/Image-ageing7.jpg)
+:::
+::::::::::
+
+<br>
+
+## References
+
+Garmany, A., & Terzic, A. (2024). Global healthspan-lifespan gaps among 183 World Health Organization member states. *JAMA Network Open, 7*(12), e2450241. doi:[10.1001/jamanetworkopen.2024.50241](https://doi.org/10.1001/jamanetworkopen.2024.50241).
+
+Janssen, T. A., Lowisz, C. V., & Phillips, S. (2024). From Molecular To Physical Function: The Aging Trajectory. *Current Research in Physiology*, 100138. doi: [10.1016/j.crphys.2024.100138](https://doi.org/10.1016/j.crphys.2024.100138)
+
+Mitchell, W. K., Williams, J., Atherton, P., Larvin, M., Lund, J., & Narici, M. (2012). Sarcopenia, dynapenia, and the impact of advancing age on human skeletal muscle size and strength; a quantitative review. *Frontiers in Physiology, 3*, 260. doi:[10.3389/fphys.2012.00260](https://doi.org/10.3389/fphys.2012.00260)
